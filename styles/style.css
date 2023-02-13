@@ -74,9 +74,6 @@ nav ul li a:hover
 .hw
 {
     list-style-type: none;
-    display: flexbox;
-    padding: 100px;
-    margin-left: 40%;
-    text-decoration: none;
+    margin: 150px;
 }
 
