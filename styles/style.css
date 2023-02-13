@@ -77,4 +77,6 @@ nav ul li a:hover
     display: flexbox;
     padding: 100px;
     margin-left: 40%;
+    text-decoration: none;
 }
+
